@@ -60,13 +60,13 @@ I like work that sits at the place where models, infra, and product meet.
 
 ## Recent OSS contributions
 
-I'm just starting this part more seriously in public.
+I'm building this part more seriously now.
 
-I keep the live contribution log here:
+Current open contribution:
 
-- [ai-systems-notes / oss-contributions.md](https://github.com/anurag9099/ai-systems-notes/blob/main/oss-contributions.md)
+- [LiteLLM PR: clarify timeout vs stream_timeout guidance](https://github.com/BerriAI/litellm/pull/24376)
 
-Merged PRs will get added here as they land.
+More merged work will get added here as it lands.
 
 ## Links
 
