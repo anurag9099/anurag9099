@@ -58,15 +58,15 @@ In the last few years i have worked across:
 
 I like work that sits at the place where models, infra, and product meet.
 
-## Recent OSS contributions
+## Current OSS work
 
 I'm building this part more seriously now.
 
-Current open contribution:
+Current open PR:
 
 - [LiteLLM PR: clarify timeout vs stream_timeout guidance](https://github.com/BerriAI/litellm/pull/24376)
 
-More merged work will get added here as it lands.
+Merged OSS work will get added here as it lands.
 
 ## Links
 
